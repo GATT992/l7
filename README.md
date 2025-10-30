@@ -26,18 +26,5 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) unt
 
 Kontribusi dipersilakan! Jika Anda menemukan bug atau memiliki ide untuk fitur baru, jangan ragu untuk membuka issue atau mengirim pull request.
 
-## Donasi
-
-Jika Anda merasa tools ini bermanfaat, Anda dapat memberikan donasi untuk mendukung pengembangan lebih lanjut:
-
--   **Bitcoin:** `your-bitcoin-address`
--   **Ethereum:** `your-ethereum-address`
-
 ## Contact
-
--   **Email:** `your-email@example.com`
--   **Twitter:** [@your-twitter](https://twitter.com/your-twitter)
-
-## Peringatan
-
-Gunakan tools ini dengan bijak dan tanggung jawab. Penulis tidak bertanggung jawab atas segala kerusakan atau masalah hukum yang timbul akibat penggunaan tools ini. 😈🔥
+- **GattNodev:** `wa.me/6285729450903`
