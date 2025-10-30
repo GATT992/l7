@@ -1,3 +1,8 @@
+## tutorial
+```
+git clone https://github.com/GATT992/l7.git
+cd l7
+```
 **Masukkan URL target:** `https://target.com`
 
 **Masukkan jumlah threads:** `200`
